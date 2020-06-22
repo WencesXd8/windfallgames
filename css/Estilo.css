@@ -1,0 +1,167 @@
+#PIE{
+    border-width: thick;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    color: white;
+    
+}
+#po{
+    border-color: black;
+    background-color: black;
+    height: 50%;;
+}
+#mis{
+    color: white;
+}
+#cont{
+    border-width: thick;
+    border-style: outset;
+    border-color: aqua;
+    background-color: rgba(30, 93, 134, 0.692);
+    height: 10%;
+    color: white;
+}
+#J1{
+    border-width: thick;
+    border-style: solid;
+    border-width: 50%;
+    border-color:royalblue;
+    background-color: cyan;
+
+}
+#p{
+    color: firebrick;
+}
+#Er{
+    color: white;
+}
+#val{
+    color: rgb(211, 31, 31);
+}
+#v{
+    color: white;
+}
+.imagen:hover{
+    transform: scale(1.2,1.1);
+}
+#Va{
+    float: right;
+}
+#Mas{
+    border-width: 50%;
+    border-width: thick;
+    border-style: outset;
+    border-color: aqua;
+    background-color: rgba(30, 93, 134, 0.692);
+}
+#Pro{
+    color: white;
+}
+#W{
+    border-width: Solid;
+    border-style: dashed;
+    border-color: rgb(55, 212, 152);
+    background-color: rgba(9, 133, 112, 0.575);
+    height: 10%;
+    color: white;
+}
+#J2{
+    border-width: thick;
+    border-style: solid;
+    border-width: 10%;
+    border-right: 20%; 
+    border-collapse: 30%;
+    border-color: rgba(79, 255, 146, 0.986);
+    background-color: rgb(30, 128, 10);
+}
+#Wb{
+    border-width: Solid;
+    border-style: dashed;
+    border-color: rgb(80, 205, 255);
+    background-color: rgba(7, 57, 90, 0.733);
+    height: 10%;
+    color: white;
+}
+#J3{
+    border-width: thick;
+    border-style: solid;
+    border-width: 10%;
+    border-right: 20%; 
+    border-collapse: 30%;
+    border-color: rgb(0, 238, 255);
+    background-color: rgb(14, 68, 119);
+}
+#Wg{
+    border-width: Solid;
+    border-style: dashed;
+    border-color: rgb(124, 255, 91);
+    background-color: rgba(20, 110, 103, 0.733);
+    height: 10%;
+    color: white;
+}
+#J4{
+    border-width: thick;
+    border-style: solid;
+    border-width: 10%;
+    border-right: 20%; 
+    border-collapse: 30%;
+    border-color: rgba(33, 255, 163, 0.986);
+    background-color: rgb(6, 95, 69);
+}
+#Mo{
+    border-width: Solid;
+    border-style: dashed;
+    border-color: rgb(255, 255, 255);
+    background-color: rgba(61, 7, 255, 0.733);
+    height: 10%;
+    color: white;
+}
+#J5{
+    border-width: thick;
+    border-style: solid;
+    border-width: 10%;
+    border-right: 20%; 
+    border-collapse: 30%;
+    border-color: rgba(89, 188, 253, 0.986);
+    background-color: rgb(11, 54, 83);
+}
+#END{
+    color: white;
+}
+#main{
+    border-width: thick;
+    border-style: solid;
+    border-width: 10%;
+    border-right: 20%; 
+    border-collapse: 30%;
+    border-color: rgba(79, 199, 255, 0.986);
+    background-color: rgb(35, 53, 129);
+}
+#main2{
+    border-width: thick;
+    border-style: solid;
+    border-width: 10%;
+    border-right: 20%; 
+    border-collapse: 30%;
+    border-color: rgba(12, 95, 9, 0.986);
+    background-color: rgb(88, 202, 85)
+}
+#main3{
+    border-width: thick;
+    border-style: solid;
+    border-width: 10%;
+    border-right: 20%; 
+    border-collapse: 30%;
+    border-color: rgba(150, 255, 124, 0.986);
+    background-color: rgb(10, 75, 32);
+}
+#Ind{
+        border-width: thick;
+        border-style: solid;
+        border-width: 8%;
+        border-right: 9; 
+        border-collapse: 30%;
+        border-color: rgba(100, 198, 255, 0.986);
+        background-color: rgb(17, 72, 145);
+}
